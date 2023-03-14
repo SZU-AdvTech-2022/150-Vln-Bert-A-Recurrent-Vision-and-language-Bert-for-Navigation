@@ -1,0 +1,7 @@
+@inproceedings{REPO-151,
+    author = "Hong, Yicong and Wu, Qi and Qi, Yuankai and Rodriguez-Opazo, Cristian and Gould, Stephen",
+    booktitle = "Proceedings of the IEEE/CVF conference on Computer Vision and Pattern Recognition",
+    pages = "1643--1653",
+    title = "{Vln Bert: A Recurrent Vision-and-language Bert for Navigation}",
+    year = "2021"
+}
